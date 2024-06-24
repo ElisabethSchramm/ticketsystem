@@ -1,4 +1,4 @@
-# ticketsystem
+# ticketsystem - Gruppenarbeit
 
 ## Introduction
 
