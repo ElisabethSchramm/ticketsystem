@@ -1,4 +1,4 @@
-# ticketsystem
+# ticketsystem - Group work for learning purposes
 
 ## Introduction
 
