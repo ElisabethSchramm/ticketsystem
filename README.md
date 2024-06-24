@@ -1,4 +1,4 @@
-# ticketsystem - Gruppenarbeit
+# ticketsystem - Gruppenarbeit - leider ohne laravel oä.
 
 ## Introduction
 
