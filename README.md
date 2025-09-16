@@ -24,7 +24,7 @@ Before you begin, ensure you have Docker Desktop installed on your system. Docke
 Clone this repository and run the project using the following commands:
 
 ```bash
-git clone git@github.com:orangtuan/ticketsystem.git
+git clone git@github.com:ElisabethSchramm/ticketsystem.git
 cd ticketsystem
 sudo docker-compose up --build # omit sudo on Windows, use an elevated terminal
 ```
